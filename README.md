@@ -19,3 +19,7 @@ This library is very easy to install. It's available at [NuGet](https://www.nuge
 3. Run a package restore using `dotnet restore`
 
 If you follow these steps correctly, you should be able to use the ColorSeq functions.
+
+{% hint style="info" %}
+You can also install this library under Rust, though this port may have limitations compared to the C# versions. Go to [this page](https://crates.io/crates/colorseq) to download the dependency to your app or your library.
+{% endhint %}

@@ -40,6 +40,10 @@ You can get detailed information about the console color ranging from 0 to 255 b
 
 ## Simulating color-blindness
 
+{% hint style="info" %}
+This feature is not available in the Rust port of this library.
+{% endhint %}
+
 In the `ColorTools` static class, it contains several color blindness simulation tools that you can use:
 
 * `EnableColorTransformation`
