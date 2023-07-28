@@ -4,6 +4,10 @@ description: Welcome to ColorSeq!
 
 # 👋 Welcome!
 
+{% hint style="info" %}
+ColorSeq is being replaced by Terminaux. We recommend that your new projects use Terminaux. The migration guide will be available under the Terminaux manual as soon as it's released.
+{% endhint %}
+
 Welcome to ColorSeq! It's a library that manages the VT color sequences and gets information about them. It's used to print the VT sequences to change the color, check whether the color is bright or dark, get RGB values from 255 colors, and much more.
 
 To use this library, go to any page in the left side of the screen.
